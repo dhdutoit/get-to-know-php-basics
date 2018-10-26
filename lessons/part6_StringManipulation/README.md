@@ -1,0 +1,3 @@
+# There are many ways to use Strings...
+
+For a full list of String related functions, go read on php.net http://php.net/manual/en/book.strings.php
