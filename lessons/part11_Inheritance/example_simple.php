@@ -15,7 +15,7 @@ class Base
     }
 }
 
-class Inherriting extends Base
+class Inherriting extends Base 
 {
     public $myName;
 
